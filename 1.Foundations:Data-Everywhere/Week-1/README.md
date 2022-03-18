@@ -6,4 +6,4 @@ Data helps us make decisions in everyday life and in business. Learning how data
 * Identify the key features of the learning environment and their uses
 * Describe principles and practices that will help to increase one's chances of success in this certificate
 * Explain the use of data in organizational decision-making
-* Describe the key concepts to be discussed in the program, including learning outcomes
+* Describe the key concepts to be discussed in the program, including learning outcomes.
