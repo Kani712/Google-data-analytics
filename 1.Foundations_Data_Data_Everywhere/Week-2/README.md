@@ -1,6 +1,7 @@
 # All about analytical thinking
 
 Data analysts balance many different roles in their work. In this part of the course, you’ll learn about some of these roles and the key skills used by analysts. You’ll also explore analytical thinking and how it relates to data-driven decision-making.
+
 ## Learning Objectives
 > * Explain the concept of data-driven decision-making including specific examples
 > * Describe the key characteristics of analytical thinking
