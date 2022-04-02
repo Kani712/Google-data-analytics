@@ -3,4 +3,4 @@
 
 Your most important Excel functions exist in Sheets, too. Here’s a few of the things you can do.
 
-![]("C:\Users\kanir\Downloads\functions.png")
+![functions](https://user-images.githubusercontent.com/70613002/161397627-e1f5fefd-10a0-4066-a649-4c3748b5aac2.png)
